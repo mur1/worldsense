@@ -3,5 +3,5 @@
 
 🙂 Stable:
 ```js
-javascript:fetch("").then(t=>t.text()).then(eval);
+javascript:fetch("https://raw.githubusercontent.com/mur1/worldsense/refs/heads/main/Worldsense.js").then(t=>t.text()).then(eval);
 ```
